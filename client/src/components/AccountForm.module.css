@@ -1,0 +1,43 @@
+.root {
+  width: 600px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 16px;
+  border: 1px solid #f0f0f0;
+  border-radius: 5px;
+  font-size: 2.2ch;
+}
+
+.root button{
+margin-left: 21px;
+}
+
+.root label {
+  width: 80px;
+}
+
+.links{
+  width: 800px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 16px;
+  border: 1px solid #f0f0f0;
+  border-radius: 5px;
+  font-size: 2.2ch; 
+}
+
+.analysis{
+  width: 600px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 16px;
+  border: 1px solid #f0f0f0;
+  border-radius: 5px;
+  font-size: 2ch; 
+}
